@@ -19,7 +19,7 @@ error_reporting(0);
 // Change IMAP settings (check SSL flags on http://php.net/manual/en/function.imap-open.php)
 $config['imap']['url'] = '{mail.50webs.com:143/novalidate-cert}INBOX';
 $config['imap']['username'] = "admin@somba.ga";
-$config['imap']['password'] = "9Iv8xvj9ES";
+$config['imap']['password'] = "2PhAgE89yn";
 
 // For gmail you can use '{imap.gmail.com:993/imap/ssl}INBOX'
 // and follow the troubleshooting at:
