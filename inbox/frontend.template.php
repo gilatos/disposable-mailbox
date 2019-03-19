@@ -78,7 +78,7 @@ function printMessageBody($email, $purifier) {
           crossorigin="anonymous">
     <title><?php
         echo $emails ? "(" . count($emails) . ") " : "";
-        echo $user->address ?></title>
+        echo $user->address ?> - Disposable Temporary Email</title>
     <link rel="stylesheet" href="assets/spinner.css">
     <link rel="stylesheet" href="assets/custom.css">
 
